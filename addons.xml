@@ -60,7 +60,7 @@
         </news>
     </extension>
 </addon>
-<addon id="script.module.thxscrapers" name="[COLORred]THX 1138 Scrapers[/COLOR]" version="1.0.5" provider-name="">
+<addon id="script.module.thxscrapers" name="[COLORred]THX 1138 Scrapers[/COLOR]" version="1.0.6" provider-name="">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.module.beautifulsoup4" />
