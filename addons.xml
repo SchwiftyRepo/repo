@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.No_One"                                                                                                                                    
 	   name="[COLORyellow]No One[/COLOR]"                                                 
-	   version="1.0.7"                                                                                                                                        
+	   version="1.0.8"                                                                                                                                        
 	   provider-name="No One">
   <requires>
 		<import addon="script.module.resolveurl" />
