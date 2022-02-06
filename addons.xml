@@ -24,15 +24,16 @@
   </extension>
   
 </addon>
-<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.0.1" provider-name="">
+<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.0.2" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
     <import addon="script.module.routing"/>
     <import addon="script.module.unidecode" />
-    <import addon="plugin.video.youtube" />
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
+    <import addon="script.module.microjenscrapers" />
+    <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
