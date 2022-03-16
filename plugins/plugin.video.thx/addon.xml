@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.0.9">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.1.0">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.thx.artwork" />
@@ -19,7 +19,7 @@
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en_GB">thx</summary>
-        <description lang="en_GB">Working On Matrix.. Debrid Service Required</description>
+        <description lang="en_GB">Working On Matrix.. Debrid And Free</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum />
