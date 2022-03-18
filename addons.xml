@@ -167,7 +167,7 @@
 		</assets>
   </extension>
 </addon>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.1.0">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.1.1">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.thx.artwork" />
@@ -198,9 +198,7 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <news>
-- See Changelog on Tools menu
-        </news>
+
     </extension>
 </addon>
 <addon id="script.module.thxscrapers" name="[COLORred]THX 1138 Scrapers[/COLOR]" version="1.1.1" provider-name="">
