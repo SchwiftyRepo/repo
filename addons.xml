@@ -24,7 +24,7 @@
   </extension>
   
 </addon>
-<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.0.4" provider-name="">
+<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.0.5" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
