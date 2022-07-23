@@ -30,7 +30,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.1.8" provider-name="">
+<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.1.9" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -39,13 +39,15 @@
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
     <import addon="script.module.microjenscrapers" />
+	<import addon="plugin.video.youtube" />
+	<import addon="plugin.video.dailymotion_com" />
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Schwifty</summary>
+    <summary lang="en_GB">Schwifty/No One</summary>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
