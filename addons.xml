@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.No_One"                                                                                                                                    
 	   name="[COLORyellow]No One[/COLOR]"                                                 
-	   version="1.2.8"                                                                                                                                        
+	   version="1.2.9"                                                                                                                                        
 	   provider-name="">
    <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -30,7 +30,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.2.1" provider-name="">
+<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.2.2" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
