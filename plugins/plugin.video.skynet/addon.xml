@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.skynet" name="[COLORwhite]Skynet[/COLOR]" provider-name="" version="1.0.0">
+<addon id="plugin.video.skynet" name="[COLORwhite]Skynet[/COLOR]" provider-name="" version="1.0.1">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <!--<import addon="script.skynet.metadata" />-->
@@ -10,7 +10,7 @@
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
         <import addon="script.module.simplejson" />
-	<import addon="plugin.video.youtube" optional="true" />
+		<import addon="plugin.video.youtube" optional="true" />
     </requires>
     <extension library="skynet.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -19,19 +19,16 @@
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en_GB">Skynet</summary>
-        <description lang="en_GB"></description>
+        <description lang="en_GB">Compatible With K19/20, Debrid Only</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum />
         <website />
         <source />
-        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
+        <disclaimer lang="en_GB"></disclaimer>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <news>
-        See Changelog on Tools menu
-        </news>
     </extension>
 </addon>
