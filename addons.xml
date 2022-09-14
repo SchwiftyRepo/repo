@@ -28,7 +28,7 @@
   </extension>
   
 </addon>
-<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.2.2" provider-name="">
+<addon id="plugin.video.schwifty" name="[COLORyellow][B]Schwifty[/B][/COLOR]" version="1.0.2.3" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -45,7 +45,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Schwifty/No One</summary>
+    <summary lang="en_GB">Schwifty-K19/20</summary>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
